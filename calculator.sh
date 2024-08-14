@@ -6,8 +6,16 @@
 #addition 
 
 #addition
+making changes as mergexample
+
 
 #Multiplication 
 
+<<<<<<< HEAD
 #change makes always perfect 
 mergeExample
+=======
+
+
+#i did mergeExample change 
+>>>>>>> mergeExample
