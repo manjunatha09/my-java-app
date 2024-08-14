@@ -8,4 +8,6 @@
 #addition
 
 #Multiplication 
- mergeExample
+
+#change makes always perfect 
+mergeExample
